@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5c75dd5-8f97-448b-947d-294d0edd766d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hack.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/snu_acm.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/HackData.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="f5c75dd5-8f97-448b-947d-294d0edd766d" name="Default" comment="Spo">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hacker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hackerearth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/snu_acm1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/win.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -36,8 +37,63 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="1282" column="0" lean-forward="true" selection-start-line="1282" selection-start-column="0" selection-end-line="1282" selection-end-column="0" />
+            <state relative-caret-position="-228">
+              <caret line="1184" column="25" lean-forward="true" selection-start-line="1184" selection-start-column="25" selection-end-line="1184" selection-end-column="25" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#2;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hero_image.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hero_image.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hold-the-code.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hold-the-code.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="judge1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/judge1.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="opennepal.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/opennepal.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="winners.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/winners.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="116" column="78" lean-forward="true" selection-start-line="116" selection-start-column="78" selection-end-line="116" selection-end-column="78" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="judge1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/judges/judge1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -55,6 +111,10 @@
       <find>this</find>
       <find>Lunch</find>
       <find>organi</find>
+      <find>judges</find>
+      <find>group-</find>
+      <find>Organizer</find>
+      <find>Hack</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -134,14 +194,6 @@
               <item name="hackdata.net" type="462c0819:PsiDirectoryNode" />
               <item name="odd2017" type="462c0819:PsiDirectoryNode" />
               <item name="hackathon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HackData" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HackData" type="462c0819:PsiDirectoryNode" />
-              <item name="hackdata.net" type="462c0819:PsiDirectoryNode" />
-              <item name="odd2017" type="462c0819:PsiDirectoryNode" />
-              <item name="hackathon" type="462c0819:PsiDirectoryNode" />
-              <item name="dest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HackData" type="b2602c69:ProjectViewProjectNode" />
@@ -288,7 +340,7 @@
       <option name="presentableId" value="Default" />
       <updated>1502542334655</updated>
       <workItem from="1502542339306" duration="71000" />
-      <workItem from="1502542868962" duration="4600000" />
+      <workItem from="1502542868962" duration="8480000" />
     </task>
     <task id="LOCAL-00001" summary="Logo">
       <created>1502545014877</created>
@@ -304,14 +356,22 @@
       <option name="project" value="LOCAL" />
       <updated>1502548154384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Images">
+      <created>1502555419903</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1502555419903</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4671000" />
+    <option name="totallyTimeSpent" value="8551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -325,7 +385,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -350,7 +410,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Logo" />
     <MESSAGE value="Content changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Content changes" />
+    <MESSAGE value="Images" />
+    <option name="LAST_COMMIT_MESSAGE" value="Images" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -370,14 +431,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/opennepal.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/frontend_developer.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -394,11 +447,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/judges/judge1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hero_image.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hold-the-code.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/judge1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/opennepal.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/winners.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="116" column="78" lean-forward="true" selection-start-line="116" selection-start-column="78" selection-end-line="116" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="1282" column="0" lean-forward="true" selection-start-line="1282" selection-start-column="0" selection-end-line="1282" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="-228">
+          <caret line="1184" column="25" lean-forward="true" selection-start-line="1184" selection-start-column="25" selection-end-line="1184" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#2;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
