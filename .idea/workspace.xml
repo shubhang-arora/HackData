@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5c75dd5-8f97-448b-947d-294d0edd766d" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/winner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/winners.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html" />
     </list>
@@ -23,8 +25,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="83" column="165" lean-forward="false" selection-start-line="83" selection-start-column="165" selection-end-line="83" selection-end-column="165" />
+            <state relative-caret-position="18">
+              <caret line="1172" column="26" lean-forward="false" selection-start-line="1172" selection-start-column="26" selection-end-line="1172" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -70,43 +72,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="judge1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/judge1.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="opennepal.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/opennepal.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="winners.svg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/winners.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2088">
-              <caret line="116" column="78" lean-forward="false" selection-start-line="116" selection-start-column="78" selection-end-line="116" selection-end-column="78" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="judge1.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/judges/judge1.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
@@ -130,6 +95,7 @@
       <find>Shiv Na</find>
       <find>Judges</find>
       <find>each team</find>
+      <find>elig</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -166,10 +132,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="744" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1" />
+    <option name="y" value="71" />
+    <option name="width" value="1364" />
+    <option name="height" value="708" />
   </component>
   <component name="ProjectView">
     <navigator currentView="Scope" currentSubView="Default" proportions="" version="1">
@@ -367,7 +334,7 @@
       <updated>1502542334655</updated>
       <workItem from="1502542339306" duration="71000" />
       <workItem from="1502542868962" duration="14146000" />
-      <workItem from="1502653903933" duration="3520000" />
+      <workItem from="1502653903933" duration="5382000" />
     </task>
     <task id="LOCAL-00001" summary="Logo">
       <created>1502545014877</created>
@@ -411,14 +378,21 @@
       <option name="project" value="LOCAL" />
       <updated>1502659085110</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Map link change">
+      <created>1502659393101</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1502659393101</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18467000" />
+    <option name="totallyTimeSpent" value="20329000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1368" height="780" extended-state="6" />
+    <frame x="1" y="71" width="1364" height="708" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -462,7 +436,8 @@
     <MESSAGE value="Sponsor logo" />
     <MESSAGE value=".tech logo" />
     <MESSAGE value="Schedule" />
-    <option name="LAST_COMMIT_MESSAGE" value="Schedule" />
+    <MESSAGE value="Map link change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Map link change" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -665,32 +640,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hold-the-code.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/judge1.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/opennepal.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/winners.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2088">
-          <caret line="116" column="78" lean-forward="false" selection-start-line="116" selection-start-column="78" selection-end-line="116" selection-end-column="78" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/json/particles.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -723,10 +672,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/winners.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2088">
+          <caret line="116" column="78" lean-forward="false" selection-start-line="116" selection-start-column="78" selection-end-line="116" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/opennepal.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="83" column="165" lean-forward="false" selection-start-line="83" selection-start-column="165" selection-end-line="83" selection-end-column="165" />
+          <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/judge1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hold-the-code.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1172" column="26" lean-forward="false" selection-start-line="1172" selection-start-column="26" selection-end-line="1172" selection-end-column="26" />
           <folding />
         </state>
       </provider>
