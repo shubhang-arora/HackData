@@ -3531,3 +3531,34 @@ corresponds to the arrow we want to display */
 .tooltip_templates {
   display: none !important;
 }
+
+@media screen and (max-width: 1920px) {
+  #particles-js {
+    height: 460px;
+  }
+}
+@media screen and (max-width: 850px) {
+  #particles-js {
+    height: 512px;
+  }
+}
+@media screen and (max-width: 750px) {
+  #particles-js {
+    height: 612px;
+  }
+}
+@media screen and (max-width: 650px) {
+  #particles-js {
+    height: 712px;
+  }
+}
+@media screen and (max-width: 550px) {
+  #particles-js {
+    height: 832px;
+  }
+}
+@media screen and (max-width: 470px) {
+  #particles-js {
+    height: 1180px;
+  }
+}
