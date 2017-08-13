@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5c75dd5-8f97-448b-947d-294d0edd766d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/winner.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/winners.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1172" column="26" lean-forward="false" selection-start-line="1172" selection-start-column="26" selection-end-line="1172" selection-end-column="26" />
+            <state relative-caret-position="419">
+              <caret line="1513" column="7" lean-forward="true" selection-start-line="1513" selection-start-column="7" selection-end-line="1513" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -132,7 +129,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1" />
     <option name="y" value="71" />
     <option name="width" value="1364" />
@@ -334,7 +331,7 @@
       <updated>1502542334655</updated>
       <workItem from="1502542339306" duration="71000" />
       <workItem from="1502542868962" duration="14146000" />
-      <workItem from="1502653903933" duration="5382000" />
+      <workItem from="1502653903933" duration="5732000" />
     </task>
     <task id="LOCAL-00001" summary="Logo">
       <created>1502545014877</created>
@@ -385,14 +382,21 @@
       <option name="project" value="LOCAL" />
       <updated>1502659393101</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Winners">
+      <created>1502661322398</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1502661322398</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20329000" />
+    <option name="totallyTimeSpent" value="20679000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="71" width="1364" height="708" extended-state="0" />
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -437,7 +441,8 @@
     <MESSAGE value=".tech logo" />
     <MESSAGE value="Schedule" />
     <MESSAGE value="Map link change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map link change" />
+    <MESSAGE value="Winners" />
+    <option name="LAST_COMMIT_MESSAGE" value="Winners" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -700,8 +705,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1172" column="26" lean-forward="false" selection-start-line="1172" selection-start-column="26" selection-end-line="1172" selection-end-column="26" />
+        <state relative-caret-position="419">
+          <caret line="1513" column="7" lean-forward="true" selection-start-line="1513" selection-start-column="7" selection-end-line="1513" selection-end-column="7" />
           <folding />
         </state>
       </provider>
