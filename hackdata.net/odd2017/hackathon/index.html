@@ -15,6 +15,7 @@
     <link rel="stylesheet" href="dest/css/bundle.css">
 
     <script src="../../../cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+    <script src="../../../node_modules/particles.js/particles.js"></script>
 </head>
 
 <style>
@@ -184,7 +185,7 @@
 
 
     <!-- ABout Section ================================================-->
-
+<div id="particles-js">
     <section id="about" class="about">
 
         <div class="content-md">
@@ -214,7 +215,7 @@
         </div>
 
     </section>
-
+</div>
     <!-- ABout Section ================================================-->
 
     <!-- Activities Section ================================================-->
@@ -1470,7 +1471,11 @@
             })
         })
     </script>
-
+        <script>
+            particlesJS.load('particles-js', 'src/assets/json/particles.json', function() {
+                console.log('callback - particles.js config loaded');
+            });
+        </script>
 
 </body>
 
