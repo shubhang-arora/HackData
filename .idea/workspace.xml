@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5c75dd5-8f97-448b-947d-294d0edd766d" name="Default" comment="Spo">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hacker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/hackerearth.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/snu_acm1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/win.png" />
+    <list default="true" id="f5c75dd5-8f97-448b-947d-294d0edd766d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html" afterPath="$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html" />
     </list>
@@ -37,12 +33,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228">
-              <caret line="1184" column="25" lean-forward="true" selection-start-line="1184" selection-start-column="25" selection-end-line="1184" selection-end-column="25" />
+            <state relative-caret-position="266">
+              <caret line="1287" column="0" lean-forward="true" selection-start-line="1287" selection-start-column="0" selection-end-line="1287" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#2;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#3;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -111,10 +109,11 @@
       <find>this</find>
       <find>Lunch</find>
       <find>organi</find>
-      <find>judges</find>
       <find>group-</find>
       <find>Organizer</find>
       <find>Hack</find>
+      <find>judges</find>
+      <find>Organi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -340,7 +339,7 @@
       <option name="presentableId" value="Default" />
       <updated>1502542334655</updated>
       <workItem from="1502542339306" duration="71000" />
-      <workItem from="1502542868962" duration="8480000" />
+      <workItem from="1502542868962" duration="11013000" />
     </task>
     <task id="LOCAL-00001" summary="Logo">
       <created>1502545014877</created>
@@ -363,11 +362,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502555419903</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Sponsor logo">
+      <created>1502559926809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1502559926809</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8551000" />
+    <option name="totallyTimeSpent" value="11084000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
@@ -411,7 +417,8 @@
     <MESSAGE value="Logo" />
     <MESSAGE value="Content changes" />
     <MESSAGE value="Images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Images" />
+    <MESSAGE value="Sponsor logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sponsor logo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -488,12 +495,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret line="1184" column="25" lean-forward="true" selection-start-line="1184" selection-start-column="25" selection-end-line="1184" selection-end-column="25" />
+        <state relative-caret-position="266">
+          <caret line="1287" column="0" lean-forward="true" selection-start-line="1287" selection-start-column="0" selection-end-line="1287" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#div#0;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#2;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#3;n#div#1;n#div#0;n#div#0;n#section#10;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
