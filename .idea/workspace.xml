@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5c75dd5-8f97-448b-947d-294d0edd766d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="f5c75dd5-8f97-448b-947d-294d0edd766d" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +20,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
+            <state relative-caret-position="3983">
               <caret line="1513" column="7" lean-forward="true" selection-start-line="1513" selection-start-column="7" selection-end-line="1513" selection-end-column="7" />
               <folding />
             </state>
@@ -32,11 +30,9 @@
       <file leaf-file-name="bundle.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/dest/css/bundle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27972">
-              <caret line="1554" column="0" lean-forward="false" selection-start-line="1554" selection-start-column="0" selection-end-line="1554" selection-end-column="0" />
-              <folding>
-                <marker date="1502653814157" expanded="true" signature="64383:64909" ph="{...}" />
-              </folding>
+            <state relative-caret-position="186">
+              <caret line="2300" column="48" lean-forward="false" selection-start-line="2300" selection-start-column="45" selection-end-line="2300" selection-end-column="48" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -93,6 +89,7 @@
       <find>Judges</find>
       <find>each team</find>
       <find>elig</find>
+      <find>spo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -331,7 +328,7 @@
       <updated>1502542334655</updated>
       <workItem from="1502542339306" duration="71000" />
       <workItem from="1502542868962" duration="14146000" />
-      <workItem from="1502653903933" duration="5732000" />
+      <workItem from="1502653903933" duration="6388000" />
     </task>
     <task id="LOCAL-00001" summary="Logo">
       <created>1502545014877</created>
@@ -393,7 +390,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20679000" />
+    <option name="totallyTimeSpent" value="21335000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
@@ -461,9 +458,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27972">
           <caret line="1554" column="0" lean-forward="false" selection-start-line="1554" selection-start-column="0" selection-end-line="1554" selection-end-column="0" />
-          <folding>
-            <marker date="1502653814157" expanded="true" signature="64383:64909" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -659,16 +654,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/dest/css/particle.css" />
-    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/dest/css/bundle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27972">
-          <caret line="1554" column="0" lean-forward="false" selection-start-line="1554" selection-start-column="0" selection-end-line="1554" selection-end-column="0" />
-          <folding>
-            <marker date="1502653814157" expanded="true" signature="64383:64909" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/src/assets/images/lines_top.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -703,9 +688,17 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/dest/css/bundle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="2300" column="48" lean-forward="false" selection-start-line="2300" selection-start-column="45" selection-end-line="2300" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hackdata.net/odd2017/hackathon/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
+        <state relative-caret-position="3983">
           <caret line="1513" column="7" lean-forward="true" selection-start-line="1513" selection-start-column="7" selection-end-line="1513" selection-end-column="7" />
           <folding />
         </state>
