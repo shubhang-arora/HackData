@@ -902,7 +902,7 @@ fieldset[disabled] .btn.active {
 .card-wrapper .paper-card__header {
   border-bottom: 1px solid rgba(151,151,151,0.4);
   margin-bottom: 20px;
-  padding-bottom: 20px;
+  padding-bottom: 0;
   overflow: hidden;
 }
 
