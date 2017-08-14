@@ -1501,27 +1501,28 @@
             })
         })
     </script>
+
         <script>
-            particlesJS.load('particles-js', {
+        var partJson = {
   "particles": {
     "number": {
-      "value": 192,
+      "value": 130,
       "density": {
         "enable": true,
-        "value_area": 2000.0708547789707
+        "value_area": 800
       }
     },
     "color": {
-      "value": "#0a2674"
+      "value": "#27b798"
     },
     "shape": {
-      "type": "circle",
+      "type": "edge",
       "stroke": {
         "width": 0,
-        "color": "#000000"
+        "color": "#27b798"
       },
       "polygon": {
-        "nb_sides": 7
+        "nb_sides": 5
       },
       "image": {
         "src": "img/github.svg",
@@ -1530,7 +1531,7 @@
       }
     },
     "opacity": {
-      "value": 0.1,
+      "value": 0,
       "random": false,
       "anim": {
         "enable": false,
@@ -1552,8 +1553,8 @@
     "line_linked": {
       "enable": true,
       "distance": 150,
-      "color": "#0a2674",
-      "opacity": 0.4,
+      "color": "#27b798",
+      "opacity": 0.3,
       "width": 1
     },
     "move": {
@@ -1586,7 +1587,7 @@
     },
     "modes": {
       "grab": {
-        "distance": 400,
+        "distance": 250,
         "line_linked": {
           "opacity": 1
         }
@@ -1611,9 +1612,11 @@
     }
   },
   "retina_detect": true
-}, function() {
-                console.log('callback - particles.js config loaded');
-            });
+};
+var jsonUri = "data:text/plain;base64,"+window.btoa(JSON.stringify(partJson));
+            particlesJS.load('particles-js',jsonUri , function() {
+  console.log('callback - particles.js config loaded');
+});
         </script>
 
 </body>
